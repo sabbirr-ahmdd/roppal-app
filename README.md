@@ -1,6 +1,6 @@
-# Roppal — Customer Churn Prediction for SaaS
+# Roppal: Customer Churn Prediction for Software Teams
 
-**Roppal** helps SaaS companies catch customer churn before it happens.
+**Roppal** helps software companies catch customer churn before it happens.
 
 Live site: https://roppal.com
 
@@ -8,9 +8,9 @@ Live site: https://roppal.com
 
 ## About Roppal
 
-Roppal is a SaaS retention tool built by Orviton. The goal is simple:
-help SaaS founders and teams spot at-risk customers before they
-cancel, not after.
+Roppal is a customer retention tool built by Orviton. The goal is
+simple: help software founders and teams spot at-risk customers
+before they cancel, not after.
 
 Instead of relying on billing failures to signal churn, Roppal watches
 customer logins, payment activity, and product usage every day,
@@ -34,10 +34,9 @@ while there's still time to act.
 |---|---|
 | **Product Name** | Roppal |
 | **Company** | Orviton |
-| **Category** | SaaS, Customer Retention, Churn Prediction |
+| **Category** | Software, Customer Retention, Churn Prediction |
 | **Status** | Building, early access via waitlist |
 | **Early Access Offer** | First 50 users get 50% off for life |
-
 
 ## Status
 
